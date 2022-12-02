@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
+body{
+    background-color: #DDE7C7;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
+
+.e{
+    color: #113d11;
+}
+
+.c{
+    color: #113d11;
+}
+
+form{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 8px double #77BFA3;
+}
+
+select{
+    font-size: 22px;
+}
